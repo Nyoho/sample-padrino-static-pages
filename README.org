@@ -1,0 +1,5 @@
+* A sample of GitHub Page using Padrino
+
+- [[http://padrinorb.com/][Padrino]]
+
+According to [[https://github.com/blog/2228-simpler-github-pages-publishing][Simpler GitHub Pages publishing]], this generates static site files into ~/docs~.
